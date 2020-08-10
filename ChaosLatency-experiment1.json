@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "title": "Fault Tolerance Demo with spring boot chaos monkey setup",
+  "title": "[Spring Chaos Monkey]Method Latency",
   "description": "Method Latency via Chaos Monkey",
   "steady-state-hypothesis": {
     "title": "Method call",

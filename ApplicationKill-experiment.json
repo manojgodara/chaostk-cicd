@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "title": "Fault Tolerance Demo with spring boot chaos monkey setup",
+  "title": "[Spring Chaos Monkey]Application Kill",
   "description": "Application Kill Fault Injection",
   "steady-state-hypothesis": {
     "title": "Application responds",
